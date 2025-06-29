@@ -1,0 +1,1 @@
+Here I am working on a Bonefracture dataset from kaggle. First I doing only Binar classification. Then I will be moving to multiclass classification and then go to find masks where the fracture is happening. If anyone thinks that I should first deal with masks and then deal with classification proeblem, please let me know.
